@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.viewpagerindicator&apos; to &apos;PatientDetailDev/src&apos;&#x0A;- Original project: &apos;library&apos;&#x0A;- Destination element: &apos;PatientDetailDev/src&apos;&#x0A;- Original element: &apos;library/src/com.viewpagerindicator&apos;" description="Copy package" destination="=PatientDetailDev/src" element1="/src&lt;com.viewpagerindicator" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1398438254652" version="1.0"/>
+</session>

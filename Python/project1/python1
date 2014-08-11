@@ -1,0 +1,4 @@
+firstName = raw_input("Please enter your last name")
+lastName = raw_input("please enter your first name")
+
+print "Your name is "+ firstName + " " + lastName 
